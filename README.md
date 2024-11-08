@@ -1,2 +1,2 @@
-# A-Star-Search
-A-Star Search in JAVA
+# A-Star-Search in JAVA
+This project involves solving a grid-based pathfinding problem using the A* search algorithm in Java. The problem requires navigating through a grid, where each cell represents a state in the search space. The goal is to find the most efficient path from a starting point to a destination, while minimizing the cost based on both the distance traveled and a heuristic estimate of the distance remaining.
